@@ -27,6 +27,7 @@ a {
 }
 #header {
 	background: #726B68;
+	padding: 20px;
 	
 
 }
@@ -55,7 +56,7 @@ a {
 #menu ul li {
 	display: inline-block;
 	padding: 0px 20px;
-	line-height: 0px; 
+	line-height: 68.66px; 
 }
 
 #menu ul li a {
@@ -63,9 +64,16 @@ a {
 }
 
 #main {
-	width: 80%;
+	width: 100%;
 	background: #000000;
-	height: 300px;
 	margin-bottom: 20px;
 	padding: 20px;
 } 
+
+#hero img {
+	width: 100%;
+}
+
+#logo img {
+	width: 100px;
+}
