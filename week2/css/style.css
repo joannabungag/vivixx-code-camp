@@ -1,0 +1,6 @@
+.container-fluid div {
+	background-color: black;
+}
+.row div {
+	border: 1px solid red;
+}
