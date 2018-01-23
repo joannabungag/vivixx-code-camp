@@ -1,6 +1,14 @@
+#header {
+	background: #726B68;
+	padding: 20px;
+	text-align: center;
+	font-size: 40px;
+}
 .container-fluid div {
 	background-color: black;
 }
 .row div {
 	border: 1px solid red;
+
+
 }
